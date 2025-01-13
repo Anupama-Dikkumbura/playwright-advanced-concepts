@@ -1,0 +1,14 @@
+{
+    "TD_ValidUser": {
+        "username": "standard_user",
+        "password": "secret_sauce"
+    },
+    "TD_InvalidUser": {
+        "username": "invalid_user",
+        "password": "invalid_password"
+    },
+    "TD_LockedOutUser": {
+        "username": "locked_out_user",
+        "password": "secret_sauce"
+    }
+}
